@@ -455,7 +455,17 @@ main{
     margin: 40px;
 
 }
-
+.education{
+    flex: 50%;
+}
+.experience{
+    flex: 50%;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
 .jar_container{
     border-left: 5px solid #dddddd;
     margin: 20px;
